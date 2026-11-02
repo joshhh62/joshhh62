@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://portfolio-joshith-sai.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" alt="Portfolio" height="38"></picture></a>
+  <a href="https://portfolio-seven-eta-n9pjnbrepq.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" alt="Portfolio" height="38"></picture></a>
   <a href="https://www.linkedin.com/in/joshith-sai-panchumarthi-646838291/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn" height="38"></picture></a>
   <a href="https://leetcode.com/u/JoshithSai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-leetcode-dark.svg"><img src="assets/btn-leetcode-light.svg" alt="LeetCode" height="38"></picture></a>
   <a href="mailto:joshithsaip@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Email" height="38"></picture></a>
