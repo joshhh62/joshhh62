@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Joshith Sai Panchumarthi: AI/ML engineer and full-stack developer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Joshith Sai Panchumarthi: AI/ML engineer and full-stack developer" width="100%">
 </picture>
 
 <p align="center">
